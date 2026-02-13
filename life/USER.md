@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:**
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Shanghai
-- **Notes:** 178/80kg，测试工程师，金融行业，健身爱好者
+- **Notes:** 178/80kg，测试工程师，金融行业，健身爱好者，需要每天11点推送更新到sly的git
 
 ## Context
 
@@ -21,6 +21,7 @@ _Learn about the person you're helping. Update this as you go._
 - 喜欢有条理的文件组织
 - 重视代码质量和测试覆盖率
 - 注重安全性和数据完整性
+- **自动化任务**: 每天11点自动推送git更新到sly远程仓库
 
 **个人特质:**
 - 注重健康和生活平衡
