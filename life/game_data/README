@@ -1,0 +1,26 @@
+此为文明6相关游戏文件
+
+This folder contains gameplay data. Be careful to distinguish between two types of gameplay files:
+1. Gameplay that needs to be on by default (ex. MyNewContent_Civilizations.xml for the new content, MyNewContent_Expansion2.xml for tweaks specific to playing in the XP2 ruleset)
+Expansion1_Required Material will work in either expansion as long as you have Expansion1 enabled.
+2. Gameplay that is part of an optional mode, specifying the ruleset needed (if any) and ending in "_Modes" (ex. MyNewContent_Modes.xml for content related to the new game mode)
+
+=== 核心文件 (Core Files) ===
+Babylon_Base.xml
+Babylon_ConfigData.xml
+Babylon_Civilizations.xml
+Babylon_Leaders.xml
+Babylon_Colors.xml
+Babylon_Colors_Config.xml
+Babylon_GameCapabilities.xml
+
+=== 游戏机制文件 (Gameplay Mechanics) ===
+Babylon_Units.xml
+Babylon_Buildings.xml
+Babylon_Improvements.xml
+Babylon_GreatPeople.xml
+Babylon_GreatWorks.xml
+Babylon_Modifiers.xml
+Babylon_Expansion1.xml
+Babylon_Expansion2.xml
+Babylon_GranColombia_Maya.xml
